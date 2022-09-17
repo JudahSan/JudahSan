@@ -1,1 +1,5 @@
-# README.md
+- 👋 Hi, I’m @juda
+- 👀 I’m interested in Machine Learning and exploring new programminglanguages
+- 🌱 I’m currently learning Ruby, Rust, JS+React, Python
+- 💞️ I’m looking to collaborate on Ruby on Rails and 2D rpg 
+- 📫 How to reach me ![mail](baraka.judah@yahoo.com)
