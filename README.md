@@ -6,4 +6,4 @@
 
 - 💞️ I’m looking to collaborate on 2D rpg and rails projects
 
-- 📫 How to reach `baraka.judah@yahoo.com`
+- 📫 How to reach me [in](https://www.linkedin.com/in/judah-m-136b06149/)
