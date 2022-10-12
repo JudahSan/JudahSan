@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juda
+- 👋 Hi, I’m juda
 
 - 👀 I’m interested in Machine Learning and exploring new programming languages
 
