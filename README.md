@@ -8,8 +8,10 @@
 
 - 📫 <!--How to reach me <strong> [in](https://www.linkedin.com/in/judah-m-136b06149/) </strong>-->
 
+<div align=center >
 <p>
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=kepojm15sjrokcvb03a3scxha&redirect=true">
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=kepojm15sjrokcvb03a3scxha&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true"/>
   </a>
   </p>
+   </div>
