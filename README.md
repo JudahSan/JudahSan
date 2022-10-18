@@ -23,16 +23,22 @@
 
 ### :man_technologist: About Me :
 
+<!--
 - :telescope: I’m currently learning ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+-->
+
+- :telescope: I’m currently learning ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 - :seedling: Exploring Game Dev with UnrealEngine5
 
-- :zap: I’m looking to collaborate on 2D rpg and rails projects
+- :zap: I’m looking to collaborate on 2D rpg games and rails projects
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/judah-m-136b06149/)
 - 👀 I’m interested in Machine Learning and exploring new programming languages
 
 ---
+
+<!--
 
 ### 🛠 &nbsp;Languages and Tools :
 <p>
@@ -59,6 +65,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudahSan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ---
 
 <div align=center >
@@ -68,3 +75,4 @@
   </a>
   </p>
    </div>
+-->
