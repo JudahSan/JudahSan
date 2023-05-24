@@ -32,7 +32,7 @@
  
 - :telescope: I’m currently learning ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge) ![DART](https://img.shields.io/badge/_-DART-00B4AB.svg?style=for-the-badge)
 
-- :seedling: Exploring Game Dev with UnrealEngine5
+- :seedling: Exploring Game Dev with UnrealEngine5 and Unity
 
 - :zap: I’m looking to collaborate on 2D rpg games 🎮 and rails projects
 
