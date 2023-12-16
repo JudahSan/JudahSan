@@ -40,8 +40,10 @@ learning ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the
 - :zap: I’m looking to collaborate on 2D multiplayer rpg games 🎮 
 
 -->
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/judah-m-136b06149/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/judah-m-136b06149/)
 - 👀 I’m interested in bird watching and classical music 🎻 
+- 📖 Currently reading "The Art of Unix Programming" by Eric S. Raymond
+
 
 <!-- --- -->
 
