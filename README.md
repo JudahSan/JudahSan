@@ -21,7 +21,7 @@
 <h1 align = center>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm JudahSan
+  I'm Judah
 </h1>
 
 <!-- --- -->
@@ -87,6 +87,6 @@ learning ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kepojm15sjrokcvb03a3scxha&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kepojm15sjrokcvb03a3scxha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kepojm15sjrokcvb03a3scxha&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="spotify-github-profile">
   </a>
 </p>
