@@ -47,7 +47,9 @@ learning ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the
 
 -->
 
-- 📖 Currently reading *"The C Programming Language"* by _Brian Kernighan_ and _Dennis Ritchie_ and *"Effective Testing with RSpec 3"*  by _Ian Dees_ and _Myron Marston_
+<!-- - 📖 Currently reading *"The C Programming Language"* by _Brian Kernighan_ and _Dennis Ritchie_ and *"Effective Testing with RSpec 3"*  by _Ian Dees_ and _Myron Marston_ -->
+  
+- 📖 Currently reading *"Let's Go"* by _Alex Edwards_ and *"Programming Ruby 3.3"*  by _Noel Rappin_ and _Dave Thomas_
 
 <!-- --- -->
 
