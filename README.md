@@ -3,9 +3,9 @@
 </div>
 
 <div id="badges" align="center">
-<!--   <a href="https://www.linkedin.com/in/judah-m-136b06149/">
+<a href="https://www.linkedin.com/in/judah-m-136b06149/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
+  </a>
 
   <a href="https://discord.com/users/556125846776053760">
       <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -49,41 +49,15 @@ learning ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the
 
 <!-- - 📖 Currently reading *"The C Programming Language"* by _Brian Kernighan_ and _Dennis Ritchie_ and *"Effective Testing with RSpec 3"*  by _Ian Dees_ and _Myron Marston_ -->
   
-- 📖 Currently reading *"Let's Go"* by _Alex Edwards_ and *"Programming Ruby 3.3"*  by _Noel Rappin_ and _Dave Thomas_
+📖 Currently reading:  
+
+- *[Let's Go Further](https://www.goodreads.com/book/show/58044798-let-s-go-further)* by **Alex Edwards**  
+- *[The Practice of Programming](https://www.goodreads.com/book/show/1032758.The_Practice_of_Programming)* by **Brian Kernighan** and **Rob Pike**  
+- *[Dart Apprentice](https://www.goodreads.com/book/show/91369274-dart-apprentice)* by **Jonathan Sande** and **Matt Galloway**  
+- *[Programming Ruby 3.3](https://www.goodreads.com/book/show/125383470-programming-ruby-3-3)* by **Noel Rappin** and **Dave Thomas**
+- *[3D Math Primer for Graphics and Game Development](https://www.goodreads.com/book/show/43299232-3d-math-primer-for-graphics-and-game-development)* by **Fletcher Dunn** and **Ian Parberry**
 
 <!-- --- -->
-
-<!--
-
-### 🛠 &nbsp;Languages and Tools :
-<p>
-*"The Practice of Programming"* by _Brian Kernighan_ and _Rob Pike_,
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/judah-m-136b06149/)
-- 👀 I’m interested in bird watching and classical music 🎻 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="RAILS" alt="RAILS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal" alt="Unreal" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgre" alt="Postgre" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  </p>
----  
-
-
-### 🔥 &nbsp; My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JudahSan&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudahSan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
--->
 
 ---
 
