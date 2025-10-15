@@ -51,7 +51,11 @@ learning ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the
   
 📖 Currently reading:  
 
-- *[Let's Go Further](https://www.goodreads.com/book/show/58044798-let-s-go-further)* by **Alex Edwards**  
+- *[Writing an Interpreter in Go](https://interpreterbook.com/)* by **Thorsten Ball**
+- *[Tiny C Projects](https://dokumen.pub/tiny-c-projects-9781633439825.html)* by **Dan Gookin**
+- *[Electronics Projects with the ESP8266 and ESP32](https://schematicsforfree.com/files/Theory%2C%20Education%20%26%20Reference/Education/Electronics%20Projects%20with%20the%20ESP8266%20and%20ESP32%202020%20Cameron.pdf)* by **Neil Cameron**
+
+📖 On hold:  
 - *[The Practice of Programming](https://www.goodreads.com/book/show/1032758.The_Practice_of_Programming)* by **Brian Kernighan** and **Rob Pike**  
 - *[Dart Apprentice](https://www.goodreads.com/book/show/91369274-dart-apprentice)* by **Jonathan Sande** and **Matt Galloway**  
 - *[Programming Ruby 3.3](https://www.goodreads.com/book/show/125383470-programming-ruby-3-3)* by **Noel Rappin** and **Dave Thomas**
@@ -63,6 +67,6 @@ learning ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kepojm15sjrokcvb03a3scxha&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kepojm15sjrokcvb03a3scxha&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kepojm15sjrokcvb03a3scxha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="spotify-github-profile">
   </a>
 </p>
