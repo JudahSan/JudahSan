@@ -45,21 +45,29 @@ learning ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the
 
 - :zap: I’m looking to collaborate on 2D multiplayer rpg games 🎮 
 
+- *[Writing an Interpreter in Go](https://interpreterbook.com/)* by **Thorsten Ball**
+
 -->
 
 <!-- - 📖 Currently reading *"The C Programming Language"* by _Brian Kernighan_ and _Dennis Ritchie_ and *"Effective Testing with RSpec 3"*  by _Ian Dees_ and _Myron Marston_ -->
   
 📖 Currently reading:  
 
-- *[Writing an Interpreter in Go](https://interpreterbook.com/)* by **Thorsten Ball**
-- *[Tiny C Projects](https://dokumen.pub/tiny-c-projects-9781633439825.html)* by **Dan Gookin**
-- *[Electronics Projects with the ESP8266 and ESP32](https://schematicsforfree.com/files/Theory%2C%20Education%20%26%20Reference/Education/Electronics%20Projects%20with%20the%20ESP8266%20and%20ESP32%202020%20Cameron.pdf)* by **Neil Cameron**
+
+- *[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)* by **Martin Kleppmann**
+- *[Database Internals](https://www.oreilly.com/library/view/database-internals/9781492040330/)* by **Alex Petrov**
+- *[Writing an Compiler in Go](https://compilerbook.com/)* by **Thorsten Ball**
+- *[Game Programming Patterns](https://gameprogrammingpatterns.com/)* by **Robert Nystrom**
+- *[The Gamer's Brain](https://thegamersbrain.com/)* by **Brenda Romero**
+
 
 📖 On hold:  
 - *[The Practice of Programming](https://www.goodreads.com/book/show/1032758.The_Practice_of_Programming)* by **Brian Kernighan** and **Rob Pike**  
 - *[Dart Apprentice](https://www.goodreads.com/book/show/91369274-dart-apprentice)* by **Jonathan Sande** and **Matt Galloway**  
 - *[Programming Ruby 3.3](https://www.goodreads.com/book/show/125383470-programming-ruby-3-3)* by **Noel Rappin** and **Dave Thomas**
 - *[3D Math Primer for Graphics and Game Development](https://www.goodreads.com/book/show/43299232-3d-math-primer-for-graphics-and-game-development)* by **Fletcher Dunn** and **Ian Parberry**
+- *[Tiny C Projects](https://dokumen.pub/tiny-c-projects-9781633439825.html)* by **Dan Gookin**
+- *[Electronics Projects with the ESP8266 and ESP32](https://schematicsforfree.com/files/Theory%2C%20Education%20%26%20Reference/Education/Electronics%20Projects%20with%20the%20ESP8266%20and%20ESP32%202020%20Cameron.pdf)* by **Neil Cameron**
 
 <!-- --- -->
 
