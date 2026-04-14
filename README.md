@@ -11,8 +11,8 @@
       <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
 
-  <a href="https://ruby.social/@Judahsan">
-    <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
+  <a href="https://open.spotify.com/user/kepojm15sjrokcvb03a3scxha">
+      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </div>
 
@@ -21,7 +21,7 @@
 <h1 align = center>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Judah
+  I'm Judah M.
 </h1>
 
 <!-- --- -->
@@ -77,4 +77,12 @@ learning ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kepojm15sjrokcvb03a3scxha&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kepojm15sjrokcvb03a3scxha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="spotify-github-profile">
   </a>
+</p>
+
+
+
+<p align = "center">
+  <img src = "https://github-profile-trophy-gamma.vercel.app/?username=JudahSan&column=-1&no-frame=true&theme=tokyonight&margin-w=8"  width=100%>
+  <img  src="https://github-readme-stats-theta-eosin.vercel.app/api/top-langs/?username=JudahSan&hide=antlr,gap,jinja,html,cmake,css,scss,glsl,procfile,jupyter%20notebook,less,DockerFile,MakeFile,Scheme,nix&theme=tokyonight&count_private=true&langs_count=16&layout=compact&hide_border=true&custom_title=Languages" width=100% >
+  <img src = "https://github-readme-stats-theta-eosin.vercel.app/api?username=JudahSan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width=100% >
 </p>
